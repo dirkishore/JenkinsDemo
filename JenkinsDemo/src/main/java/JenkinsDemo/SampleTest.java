@@ -13,7 +13,7 @@ public class SampleTest {
 
 		WebDriver driver = new EdgeDriver();
 
-		driver.get("https://www.google.com/");
+		driver.get("https://www.facebook.com/");
 
 		Thread.sleep(3000);
 
